@@ -33,3 +33,18 @@ footer {
     background-color: #FAF0EA;
     padding: 10px;
 }
+
+
+/* IMAGES */
+
+.hide-img{
+    width: 280px;
+    height: 250px;
+    visibility: hidden;
+}
+
+.show-img{
+    width: 280px;
+    height: 250px;
+    visibility: visible;
+}
